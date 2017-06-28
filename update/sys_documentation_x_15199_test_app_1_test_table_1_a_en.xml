@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="a" label="A" language="en" table="x_15199_test_app_1_test_table_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>a</element>
+            <help/>
+            <hint/>
+            <label>A</label>
+            <language>en</language>
+            <name>x_15199_test_app_1_test_table_1</name>
+            <plural>As</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>shay</sys_created_by>
+            <sys_created_on>2017-06-28 08:15:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6049f63e4f233200b7154aa28110c789</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>A</sys_name>
+            <sys_package display_value="test app 1" source="x_15199_test_app_1">5f09faba4f233200b7154aa28110c70f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="test app 1">5f09faba4f233200b7154aa28110c70f</sys_scope>
+            <sys_update_name>sys_documentation_x_15199_test_app_1_test_table_1_a_en</sys_update_name>
+            <sys_updated_by>shay</sys_updated_by>
+            <sys_updated_on>2017-06-28 08:15:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
